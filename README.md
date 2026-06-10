@@ -1,2 +1,9 @@
-# Credit-Scoring-Model
-A machine learning project that predicts a person's creditworthiness based on income and debt data using Python, Pandas, and Scikit-learn.
+Credit Scoring Model
+
+This project predicts whether a person is creditworthy based on income and debt using Machine Learning.
+
+Technologies Used:
+- Python
+- Pandas
+- Scikit-learn
+- Random Forest Classifier
